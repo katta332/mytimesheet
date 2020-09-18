@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{33771524-3DA9-47BA-8A2F-1F9198805D51}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/UserDetails.cs">
+    <Files>
+      <File FileName="Controllers/AccountController.cs" Line="32" Column="1" IsPinned="True" />
+      <File FileName="Models/AppDBContext.cs" Line="20" Column="10" />
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="34" Column="1" />
+      <File FileName="appsettings.json" Line="9" Column="25" />
+      <File FileName="Program.cs" Line="16" Column="1" />
+      <File FileName="Models/MockUserDetailsRepository.cs" Line="45" Column="15" />
+      <File FileName="Models/UserDetails.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AngularProject" expanded="True">
+            <Node name="AngularProject" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="UserDetails.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AngularProject PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/praveenkumarchowdarykatta/Documents/AngularProject/Controllers/AccountController.cs" relfile="Controllers/AccountController.cs" line="40" column="1" />
+      <Breakpoint file="/Users/praveenkumarchowdarykatta/Documents/AngularProject/Controllers/AccountController.cs" relfile="Controllers/AccountController.cs" line="29" column="1" />
+      <Breakpoint file="/Users/praveenkumarchowdarykatta/Documents/AngularProject/Models/MockUserDetailsRepository.cs" relfile="Models/MockUserDetailsRepository.cs" line="46" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
